@@ -1,2 +1,2 @@
-# Project-1
-Object Detection using Deep Learning
+# Project-1 (Object Detection using Deep Learning)
+Object Detection is a computer vision application which identify and locate objects in an image or video and labels them accurately. The dataset used in this project is the CIFAR-10 dataset which has 50,000 training images and 10,000 test images along with 10 unique classes. The algorithm used in this project is the Convolutional Neural Network (CNN) which takes an input image, process it and classify it under certain categories. The process involves features extraction, reduction of parameters when image is too large, flattening the output followed by an activation function such as softmax to classify the output. After training the model, the final accuracy came around 80%.
